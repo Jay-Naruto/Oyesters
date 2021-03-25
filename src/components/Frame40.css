@@ -1,0 +1,29 @@
+.Frame40{
+
+
+    position: absolute;
+    width: 411px;
+    height: 64px;
+    left: 0px;
+    top: 3271px;
+    
+    background: #EE4248;}
+
+.Copyright{
+
+
+position: absolute;
+width: 382px;
+height: 21px;
+left: 15px;
+top: 22px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #FFFFFF;}

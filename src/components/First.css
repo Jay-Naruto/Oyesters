@@ -1,0 +1,123 @@
+.Frame34{
+
+position: absolute;
+width: 411px;
+height: 661px;
+left: 0px;
+top: 72px;
+
+}
+
+.Group1311{
+
+position: absolute;
+width: 383px;
+height: 307px;
+left: 14px;
+top: 323px;
+}
+
+
+.Making{
+
+position: absolute;
+width: 373px;
+height: 135px;
+left: 19px;
+top: 323px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 34px;
+line-height: 133.69%;
+/* or 45px */
+text-align: center;
+
+color: #1F2E35;
+}
+
+
+.Managed{
+
+position: absolute;
+width: 383px;
+height: 87px;
+left: 14px;
+top: 474px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 29px;
+text-align: center;
+
+color: #30444E;
+}
+
+
+.Frame35{
+
+/* Auto Layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 12px 32px;
+
+position: absolute;
+width: 161px;
+height: 53px;
+left: 100px;
+top: 577px;
+
+background: #EE4248;
+box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+}
+
+.Read{
+
+position: static;
+width: 97px;
+height: 29px;
+left: 32px;
+top: 12px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 29px;
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+.Inside{
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+}
+.devices / pana{
+
+position: absolute;
+width: 349px;
+height: 236.57px;
+left: 31px;
+top: 54px;
+}
+
+
+.backgroundcomplete{
+
+position: absolute;
+left: 8.01%;
+right: 17.85%;
+top: 10.1%;
+bottom: 71.35%;
+
+opacity: 0;
+}

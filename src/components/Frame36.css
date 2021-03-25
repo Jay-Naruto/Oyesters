@@ -1,0 +1,91 @@
+.Frame36{
+
+position: absolute;
+width: 411px;
+height: 857px;
+left: 0px;
+top: 749px;
+
+background: #F6F6F6;
+}
+
+.Group1312{
+
+position: absolute;
+width: 364px;
+height: 461px;
+left: 25px;
+top: 367px;
+}
+
+
+.Welcome{
+
+position: absolute;
+width: 364px;
+height: 86px;
+left: 25px;
+top: 367px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 133.69%;
+/* or 43px */
+text-align: center;
+color: #1F2E35;}
+
+.Product{
+
+    position: absolute;
+    width: 288px;
+    height: 43px;
+    left: 62px;
+    top: 20px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 133.69%;
+    /* identical to box height, or 43px */
+    text-align: center;
+    
+    color: #1F2E35;}
+    
+    
+
+.Dwidasa{ 
+
+position: absolute;
+width: 358.68px;
+height: 351px;
+left: 25px;
+top: 480px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+color: #30444E;
+}
+
+.firsttb{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 12px 32px;
+    
+    position: absolute;
+    width: 161px;
+    height: 53px;
+    left: 125px;
+    top: 577px;
+    
+    background: #EE4248;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}

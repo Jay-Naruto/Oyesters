@@ -1,0 +1,333 @@
+.Frame377{
+
+position: absolute;
+width: 411px;
+height: 1162px;
+left: 0px;
+top: 1622px;
+text-align: center;
+
+}
+
+.Product{
+
+position: absolute;
+width: 288px;
+height: 43px;
+left: 62px;
+top: 36px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 133.69%;
+/* identical to box height, or 43px */
+text-align: center;
+
+color: #1F2E35;
+
+}
+.VectorP{
+    position: absolute;
+left: 5.28%;
+right: 7.7%;
+top: 1.7%;
+bottom: 1.7%;
+
+background: #EFEFEF;
+}
+.VectorP{
+    
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.67%;
+bottom: 66.67%;
+
+background: #000000;
+}
+.Our{
+
+
+position: absolute;
+width: 151px;
+height: 37px;
+left: 104px;
+top: 210px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 133.69%;
+/* or 37px */
+
+
+color: #EE4248;
+}
+.OurPara{
+position: absolute;
+width: 359px;
+height: 81px;
+left: 0px;
+top: 262px;
+text-align: center;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 150%;
+
+/* or 27px */
+
+
+
+color: #30444E;
+}
+.Read{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 12px 32px;
+    
+    position: absolute;
+    width: 141px;
+    height: 53px;
+    left: 107px;
+    top: 577px;
+    
+    background: #EE4248;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+
+.Read2{
+
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 16px;
+
+position: absolute;
+width: 119px;
+height: 42px;
+left: 119px;
+top: 367px;
+
+background: #EE4248;
+box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.25);
+border-radius: 4px;}
+.Read3{
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 8px 16px;
+    
+    position: absolute;
+    width: 119px;
+    height: 42px;
+    left: 119px;
+    top: 731px;
+    
+    background: #EE4248;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;}
+
+.Read4{
+
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 8px 16px;
+        
+        position: absolute;
+        width: 119px;
+        height: 42px;
+        left: 119px;
+        top: 1088px;
+        
+        background: #EE4248;
+        box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.25);
+        border-radius: 4px;}
+.Readmore{
+            
+position: static;
+width: 97px;
+height: 29px;
+
+top: 12px;
+align-items: center;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 29px;
+/* identical to box height */
+color: #FFFFFF;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+        }
+
+.ReadMore2{
+
+    position: static;
+    width: 87px;
+    height: 26px;
+    left: 16px;
+    top: 8px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 144.69%;
+/* identical to box height, or 26px */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+
+
+color: #FFFFFF;}
+
+.ReadMore3{
+
+
+    position: static;
+    width: 87px;
+    height: 26px;
+    left: 16px;
+    top: 8px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 144.69%;
+    /* identical to box height, or 26px */
+    flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;
+    
+    color: #FFFFFF;}
+
+    
+.Inside{
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 10px;}
+
+.OurService{
+
+
+position: absolute;
+width: 145px;
+height: 37px;
+left: 107px;
+top: 548px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 133.69%;
+/* or 37px */
+
+
+color: #EE4248;
+}
+.DSIshared{
+position: absolute;
+width: 359px;
+height: 108px;
+left: 0px;
+top: 600px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+text-align: center;
+
+color: #30444E;}
+
+
+.OurTechnology {
+
+
+position: absolute;
+width: 197px;
+height: 37px;
+left: 80px;
+top: 911px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 133.69%;
+/* or 37px */
+
+
+color: #EE4248;
+}
+
+.First{
+position: absolute;
+width: 349px;
+height: 108px;
+left: 4px;
+top: 964px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+text-align: center;
+
+color: #30444E;
+}
+
+
+
+/*IMAGES */
+.productsdescp{
+position: absolute;
+width: 100px;
+height: 100px;
+left: 130px;
+top: 95px;
+background-image: url("./pd.jpg");
+}
+
+.verified{
+
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 130px;
+top: 433px;
+background-image: url("./verified.jpg");
+}
+.cog{
+position: absolute;
+width: 100px;
+height: 100px;
+left: 129px;
+top: 797px;
+background-image: url("./cogwheel.jpg");
+}

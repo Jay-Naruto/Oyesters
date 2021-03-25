@@ -1,0 +1,284 @@
+.Frame38{
+
+position: absolute;
+width: 411px;
+height: 471px;
+left: 0px;
+top: 2800px;
+
+background: #FFFFFF;
+
+}
+
+.PT{
+
+position: absolute;
+width: 259px;
+height: 21px;
+left: 25px;
+top: 80px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+color: #263238;}
+
+
+
+.Ruko{
+
+position: absolute;
+width: 317px;
+height: 54px;
+left: 25px;
+top: 113px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 149.19%;
+/* or 27px */
+
+color: #263238;
+}
+
+
+
+.Phone{
+
+position: absolute;
+width: 269px;
+height: 81px;
+left: 25px;
+top: 239px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 18px;
+line-height: 149.19%;
+/* or 27px */
+
+color: #263238};
+
+
+
+.Contact{
+
+position: absolute;
+width: 85px;
+height: 28px;
+left: 25px;
+top: 199px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+
+color: #263238;
+}
+
+.DSIB{
+
+position: absolute;
+width: 71px;
+height: 56px;
+left: 25px;
+top: 20px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 48px;
+line-height: 56px;
+letter-spacing: -0.05em;
+background-image: url("./DSI.png");
+color: #85171A;}
+
+
+
+.DWIDASAB{
+
+position: absolute;
+width: 48px;
+height: 14px;
+left: 96px;
+top: 28px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 143.19%;
+/* or 14px */
+letter-spacing: 0.06em;
+
+color: rgba(0, 0, 0, 0.6);}
+
+
+
+.SAMSARAB{
+
+position: absolute;
+width: 48px;
+height: 12px;
+left: 96px;
+top: 41px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+letter-spacing: 0.01em;
+
+color: rgba(38, 50, 56, 0.8);
+}
+
+
+.INDONESIAB{
+
+position: absolute;
+width: 48px;
+height: 12px;
+left: 96px;
+top: 54px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+letter-spacing: -0.05em;
+
+color: #263238;
+}
+
+.image7{
+
+
+position: absolute;
+width: 113.35px;
+height: 34.92px;
+left: 31.74px;
+top: 352px;
+
+background: url("./image7.jpg");}
+
+.Copyright{
+
+
+    position: absolute;
+    width: 382px;
+    height: 21px;
+    left: 15px;
+    top: 398px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;}
+    .Frame40{
+
+
+        position: absolute;
+        width: 411px;
+        height: 64px;
+        left: 0px;
+        top: 395px;
+        
+        background: #EE4248;}
+    
+.image9{
+
+
+position: absolute;
+width: 98.03px;
+height: 41.66px;
+left: 166.53px;
+top: 352px;
+
+background: url("./image9.jpg");
+
+}
+
+.image10{
+
+
+position: absolute;
+width: 66.17px;
+height: 36.76px;
+
+left: 286px;
+top: 354.45px;
+
+background: url("./image10.png");}
+
+.image11{
+
+
+position: absolute;
+width: 66.78px;
+height: 37.37px;
+left: 25px;
+top: 401.63px;
+
+background: url('./image11.jpg');
+}
+.image14{
+
+position: absolute;
+width: 122.54px;
+height: 18.81px;
+left: 113.23px;
+top: 411.43px;
+
+background: url('./image14.jpg');}
+
+.image13{
+
+
+position: absolute;
+width: 122.54px;
+height: 21.5px;
+left: 257.2px;
+top: 412.04px;
+
+background: url('./image13.jpg');}
+
+
+/*Frame 34*/
+.devices{
+
+
+position: absolute;
+width: 349px;
+height: 236.57px;
+left: 64px;
+top: 54px;
+background-image: url("./pana.jpg");}
+
+.browser{
+
+
+position: absolute;
+width: 349px;
+height: 340.54px;
+left: 31px;
+top: -8.97px;
+background-image: url("./pana2.jpg");
+}
+
